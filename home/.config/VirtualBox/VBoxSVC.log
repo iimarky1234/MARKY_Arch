@@ -1,0 +1,51 @@
+00:00:00.000573 main     VirtualBox XPCOM Server 7.2.4 r170995 linux.amd64 (Oct 22 2025 16:59:14) release log
+00:00:00.000574 main     Log opened 2026-01-08T11:36:09.608446000Z
+00:00:00.000574 main     Build Type: release
+00:00:00.000575 main     OS Product: Linux
+00:00:00.000576 main     OS Release: 6.18.2-arch2-1
+00:00:00.000576 main     OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 18 Dec 2025 18:00:18 +0000
+00:00:00.000588 main     DMI Product Name: VivoBook_ASUSLaptop X513EP_A515EP
+00:00:00.000592 main     DMI Product Version: 1.0       
+00:00:00.000595 main     Firmware type: UEFI
+00:00:00.000842 main     Secure Boot: Disabled
+00:00:00.000860 main     Host RAM: 15670MB (15.3GB) total, 14562MB (14.2GB) available
+00:00:00.000862 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000862 main     Process ID: 1542
+00:00:00.000862 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.005404 main     IPC socket path: /tmp/.vbox-iimarky123-ipc/ipcd
+00:00:00.015739 DCon01   VirtualBox: object creation starts
+00:00:00.038020 DCon01   Home directory: '/home/iimarky123/.config/VirtualBox'
+00:00:00.039095 DCon01   Loading settings file "/home/iimarky123/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.052121 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.054474 DCon01   HostDnsMonitor: initializing
+00:00:00.054601 DCon01   NAT: resolv.conf: nameserver 8.8.8.8
+00:00:00.054603 DCon01   NAT: resolv.conf: nameserver 1.1.1.1
+00:00:00.054610 DCon01   HostDnsMonitor: updating information
+00:00:00.054613 DCon01   HostDnsMonitor: old information
+00:00:00.054614 DCon01     no server entries
+00:00:00.054615 DCon01     no domain set
+00:00:00.054615 DCon01     no search string entries
+00:00:00.054616 DCon01   HostDnsMonitor: new information
+00:00:00.054617 DCon01     server 1: 8.8.8.8
+00:00:00.054618 DCon01     server 2: 1.1.1.1
+00:00:00.054618 DCon01     no domain set
+00:00:00.054619 DCon01     no search string entries
+00:00:00.058072 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.058777 DCon01   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.062153 DCon01   Platform architecture set to 'x86'
+00:00:00.065989 DCon01   Loading settings file "/home/iimarky123/Storage/VM/Windows 4 Test/Windows 4 Test.vbox" with version "1.19-linux"
+00:00:00.067801 DCon01   Platform architecture set to 'x86'
+00:00:00.069814 DCon01   VirtualBox: object created
+00:00:00.601273 DCon05   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:00.601846 DCon05   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=false aResultDetail=0
+00:00:00.641616 DCon05   NvramStore: Loading 'TpmEmuTpms/permall' from archive
+00:00:00.641636 DCon05   NvramStore: Loading 'efi/nvram' from archive
+00:00:00.724447 DCon04   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:00.754525 DCon04   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:00.755100 DCon04   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:06.667037 main     VirtualBox: object deletion starts
+00:00:06.667089 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium '/home/iimarky123/Storage/VM/Windows 4 Test/Windows 4 Test.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:06.678169 main     HostDnsMonitor: shutting down ...
+00:00:06.682812 main     HostDnsMonitor: shut down
+00:00:06.693739 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:06.693869 main     VirtualBox: object deleted

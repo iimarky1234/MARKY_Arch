@@ -1,0 +1,137 @@
+INFO 1/16/2026, 12:40:37 PM  launch with argv [/usr/share/typora/Typora]
+INFO 1/16/2026, 12:40:37 PM  launchFromDiffVersion, pre version is undefined
+INFO 1/16/2026, 12:40:37 PM  start LM in devVersion=true
+INFO 1/16/2026, 12:40:37 PM  [Raven] instanceKey = 0174c6c4-1482-4d0d-bf2f-4681f9975084
+INFO 1/16/2026, 12:40:37 PM  ls put SLicense
+INFO 1/16/2026, 12:40:37 PM  [validateTrail] installDate is 1/16/2026, trail remains: 15 days
+INFO 1/16/2026, 12:40:37 PM  overwriteThemeFolder
+INFO 1/16/2026, 12:40:37 PM  ------------------start------------------
+INFO 1/16/2026, 12:40:37 PM  typora version: 0.11.18
+INFO 1/16/2026, 12:40:37 PM  [focus] 1
+INFO 1/16/2026, 12:40:37 PM  [blur] 1
+INFO 1/16/2026, 12:40:37 PM  [win] blur
+INFO 1/16/2026, 12:40:37 PM  [focus] 1
+INFO 1/16/2026, 12:40:37 PM  synced recovery
+INFO 1/16/2026, 12:40:37 PM  [Raven] userId = 421903e9-decd-4e16-b7ae-9a70f5b6bb6a
+INFO 1/16/2026, 12:40:38 PM  handle document.loadInitData
+INFO 1/16/2026, 12:40:38 PM  [RenderProcess 1][Log] getContent
+INFO 1/16/2026, 12:40:38 PM  synced recovery
+INFO 1/16/2026, 12:40:38 PM  [RenderProcess 1][Log] onBecomeActive
+INFO 1/16/2026, 12:40:38 PM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 1/16/2026, 12:40:42 PM  synced recovery
+INFO 1/16/2026, 12:40:44 PM  synced recovery
+INFO 1/16/2026, 12:40:45 PM  synced recovery
+INFO 1/16/2026, 12:40:47 PM  synced recovery
+INFO 1/16/2026, 12:40:47 PM  synced recovery
+INFO 1/16/2026, 12:40:53 PM  updateTheme
+INFO 1/16/2026, 12:40:58 PM  synced recovery
+INFO 1/16/2026, 12:41:00 PM  synced recovery
+INFO 1/16/2026, 12:41:02 PM  synced recovery
+INFO 1/16/2026, 12:41:02 PM  synced recovery
+INFO 1/16/2026, 12:41:04 PM  synced recovery
+INFO 1/16/2026, 12:41:05 PM  synced recovery
+INFO 1/16/2026, 12:41:08 PM  synced recovery
+INFO 1/16/2026, 12:41:09 PM  synced recovery
+INFO 1/16/2026, 12:41:10 PM  synced recovery
+INFO 1/16/2026, 12:41:11 PM  synced recovery
+INFO 1/16/2026, 12:41:11 PM  synced recovery
+INFO 1/16/2026, 12:41:11 PM  synced recovery
+INFO 1/16/2026, 12:41:12 PM  synced recovery
+INFO 1/16/2026, 12:41:12 PM  synced recovery
+INFO 1/16/2026, 12:41:13 PM  synced recovery
+INFO 1/16/2026, 12:41:13 PM  synced recovery
+INFO 1/16/2026, 12:41:14 PM  [blur] 1
+INFO 1/16/2026, 12:41:14 PM  [win] blur
+INFO 1/16/2026, 12:41:15 PM  [focus] 1
+INFO 1/16/2026, 12:41:19 PM  synced recovery
+INFO 1/16/2026, 12:41:19 PM  ----------------before-quit-----------------
+INFO 1/16/2026, 12:41:19 PM  ------------------will-quit------------------
+INFO 1/16/2026, 12:41:19 PM  -----------------quit------------------
+INFO 1/16/2026, 12:41:19 PM  closeLogging
+INFO 1/16/2026, 12:41:26 PM  launch with argv [/usr/share/typora/Typora, README.md]
+INFO 1/16/2026, 12:41:26 PM  start LM in devVersion=true
+INFO 1/16/2026, 12:41:26 PM  [Raven] instanceKey = 97c39801-ce6f-436a-8231-2b9c9adc836d
+INFO 1/16/2026, 12:41:26 PM  ls put SLicense
+INFO 1/16/2026, 12:41:26 PM  [validateTrail] installDate is 1/16/2026, trail remains: 15 days
+INFO 1/16/2026, 12:41:26 PM  ------------------start------------------
+INFO 1/16/2026, 12:41:26 PM  typora version: 0.11.18
+INFO 1/16/2026, 12:41:26 PM  addRecentDocument
+INFO 1/16/2026, 12:41:26 PM  [focus] 1
+INFO 1/16/2026, 12:41:26 PM  synced recovery
+INFO 1/16/2026, 12:41:26 PM  [Raven] userId = 421903e9-decd-4e16-b7ae-9a70f5b6bb6a
+INFO 1/16/2026, 12:41:27 PM  handle document.loadInitData
+INFO 1/16/2026, 12:41:27 PM  [RenderProcess 1][Log] getContent
+INFO 1/16/2026, 12:41:27 PM  synced recovery
+INFO 1/16/2026, 12:41:27 PM  [RenderProcess 1][Log] onBecomeActive
+INFO 1/16/2026, 12:41:27 PM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 1/16/2026, 12:41:27 PM  synced recovery
+INFO 1/16/2026, 12:41:29 PM  synced recovery
+INFO 1/16/2026, 12:41:30 PM  synced recovery
+INFO 1/16/2026, 12:41:34 PM  synced recovery
+INFO 1/16/2026, 12:41:39 PM  synced recovery
+INFO 1/16/2026, 12:41:41 PM  synced recovery
+INFO 1/16/2026, 12:41:49 PM  synced recovery
+INFO 1/16/2026, 12:41:49 PM  synced recovery
+INFO 1/16/2026, 12:41:49 PM  ----------------before-quit-----------------
+INFO 1/16/2026, 12:41:49 PM  ------------------will-quit------------------
+INFO 1/16/2026, 12:41:49 PM  -----------------quit------------------
+INFO 1/16/2026, 12:41:49 PM  closeLogging
+INFO 1/16/2026, 4:58:18 PM  launch with argv [/usr/share/typora/Typora, README.md]
+INFO 1/16/2026, 4:58:19 PM  start LM in devVersion=true
+INFO 1/16/2026, 4:58:19 PM  [Raven] instanceKey = 02abbb19-05e2-46ea-a4a3-b1ba6e4494f4
+INFO 1/16/2026, 4:58:19 PM  ls put SLicense
+INFO 1/16/2026, 4:58:19 PM  [validateTrail] installDate is 1/16/2026, trail remains: 15 days
+INFO 1/16/2026, 4:58:19 PM  ------------------start------------------
+INFO 1/16/2026, 4:58:19 PM  typora version: 0.11.18
+INFO 1/16/2026, 4:58:19 PM  addRecentDocument
+INFO 1/16/2026, 4:58:19 PM  [Raven] userId = 421903e9-decd-4e16-b7ae-9a70f5b6bb6a
+INFO 1/16/2026, 4:58:19 PM  [focus] 1
+INFO 1/16/2026, 4:58:19 PM  [blur] 1
+INFO 1/16/2026, 4:58:19 PM  [win] blur
+INFO 1/16/2026, 4:58:19 PM  [focus] 1
+INFO 1/16/2026, 4:58:19 PM  [blur] 1
+INFO 1/16/2026, 4:58:19 PM  [win] blur
+INFO 1/16/2026, 4:58:19 PM  [focus] 1
+INFO 1/16/2026, 4:58:19 PM  synced recovery
+INFO 1/16/2026, 4:58:19 PM  handle document.loadInitData
+INFO 1/16/2026, 4:58:19 PM  [RenderProcess 1][Log] getContent
+INFO 1/16/2026, 4:58:20 PM  synced recovery
+INFO 1/16/2026, 4:58:20 PM  [RenderProcess 1][Log] onBecomeActive
+INFO 1/16/2026, 4:58:20 PM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 1/16/2026, 4:58:34 PM  synced recovery
+INFO 1/16/2026, 4:58:34 PM  synced recovery
+INFO 1/16/2026, 4:58:35 PM  synced recovery
+INFO 1/16/2026, 4:58:35 PM  synced recovery
+INFO 1/16/2026, 4:58:40 PM  synced recovery
+INFO 1/16/2026, 4:58:43 PM  synced recovery
+INFO 1/16/2026, 4:58:44 PM  synced recovery
+INFO 1/16/2026, 4:58:44 PM  synced recovery
+INFO 1/16/2026, 4:58:44 PM  synced recovery
+INFO 1/16/2026, 4:58:46 PM  synced recovery
+INFO 1/16/2026, 4:58:47 PM  synced recovery
+INFO 1/16/2026, 4:58:48 PM  synced recovery
+INFO 1/16/2026, 4:58:50 PM  synced recovery
+INFO 1/16/2026, 4:58:53 PM  synced recovery
+INFO 1/16/2026, 4:58:57 PM  synced recovery
+INFO 1/16/2026, 4:59:00 PM  synced recovery
+INFO 1/16/2026, 4:59:03 PM  synced recovery
+INFO 1/16/2026, 4:59:06 PM  synced recovery
+INFO 1/16/2026, 4:59:09 PM  synced recovery
+INFO 1/16/2026, 4:59:13 PM  synced recovery
+INFO 1/16/2026, 4:59:14 PM  synced recovery
+INFO 1/16/2026, 4:59:16 PM  synced recovery
+INFO 1/16/2026, 4:59:16 PM  synced recovery
+INFO 1/16/2026, 4:59:19 PM  synced recovery
+INFO 1/16/2026, 4:59:20 PM  synced recovery
+INFO 1/16/2026, 4:59:21 PM  synced recovery
+INFO 1/16/2026, 4:59:23 PM  synced recovery
+INFO 1/16/2026, 4:59:29 PM  synced recovery
+INFO 1/16/2026, 4:59:30 PM  synced recovery
+INFO 1/16/2026, 4:59:32 PM  synced recovery
+INFO 1/16/2026, 4:59:32 PM  synced recovery
+INFO 1/16/2026, 4:59:32 PM  synced recovery
+INFO 1/16/2026, 4:59:33 PM  synced recovery
+INFO 1/16/2026, 4:59:33 PM  ----------------before-quit-----------------
+INFO 1/16/2026, 4:59:33 PM  ------------------will-quit------------------
+INFO 1/16/2026, 4:59:33 PM  -----------------quit------------------
+INFO 1/16/2026, 4:59:33 PM  closeLogging
